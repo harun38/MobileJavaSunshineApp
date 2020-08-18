@@ -1,0 +1,29 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app    ="http://schemas.android.com/apk/res-auto"
+    xmlns:tools  ="http://schemas.android.com/tools"
+    tools:context="tr.com.mskr.sunshine22.MainActivity">
+
+    <item
+        android:id="@+id/action_help"
+        android:icon="@drawable/icon_help"
+        android:orderInCategory="100"
+        android:title="@string/action_help"
+
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/icon_settings"
+        android:orderInCategory="101"
+        android:title="@string/action_settings"
+
+        app:showAsAction="never"></item>
+    <item
+        android:id="@+id/action_refresh"
+        android:icon="@drawable/icon_settings"
+        android:orderInCategory="102"
+        android:title="@string/action_refresh"
+
+        app:showAsAction="never"></item>
+
+</menu>

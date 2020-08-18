@@ -1,0 +1,25 @@
+<resources>
+    <string-array name="pref_units_options">
+        <item>"Metric"</item>
+        <item>"Imperial"</item>
+    </string-array>
+
+    <string-array name="pref_units_values">
+        <item>"metric"</item>
+        <item>"imperial"</item>
+    </string-array>
+
+    <string-array name="pref_properties_options">
+        <item>"Max"</item>
+        <item>"Min"</item>
+        <item>"Humidity"</item>
+        <item>"Pressure"</item>
+    </string-array>
+
+    <string-array name="pref_properties_values">
+        <item>"max"</item>
+        <item>"min"</item>
+        <item>"humidity"</item>
+        <item>"pressure"</item>
+    </string-array>
+</resources>
